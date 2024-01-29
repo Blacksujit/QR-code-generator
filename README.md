@@ -13,7 +13,7 @@ Uses a QR server API for code generation
 HTML
 CSS
 JavaScript
-QR Server API: Replace with the actual API name and link
+QR Server API:  qrcode api
 ## Getting Started
 
 Clone this repository:
