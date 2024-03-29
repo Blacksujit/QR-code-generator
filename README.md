@@ -8,7 +8,8 @@ A simple QR code generator built with HTML, CSS, JavaScript, and a QR server API
 Generates QR codes based on text input
 Displays generated QR codes for scanning
 Uses a QR server API for code generation
-## Technologies Used
+
+## Technologies Used:
 
 HTML
 CSS
@@ -18,15 +19,13 @@ QR Server API:  qrcode api
 
 Clone this repository:
 
-Bash
-git clone https://github.com/your-username/qr-code-generator.git
-Use code with caution. Learn more
-Navigate to the project directory:
+ git clone https://github.com/Blacksujit/QR-code-generator.git
 
-Bash
+## Bash :
+```
 cd qr-code-generator
-Use code with caution. Learn more
-Open the index.html file in a web browser.
+```
+b browser.
 
 ## Usage
 
