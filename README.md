@@ -25,8 +25,7 @@ Clone this repository:
 ```
 cd qr-code-generator
 ```
-b browser.
-
+  
 ## Usage
 
 Enter the text you want to encode in the input box.
